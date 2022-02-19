@@ -1,0 +1,10 @@
+div.bigbox
+{
+    display:flex;
+    flex-direction:row;
+    background-color:aqua;
+}
+div.smallbox
+{
+    background-color: blanchedalmond;
+}
